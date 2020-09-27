@@ -1,0 +1,6 @@
+1
+  paper:http://vladlen.info/papers/conditional-imitation.pdf
+  code:https://github.com/carla-simulator/imitation-learning
+  simulator:carla
+  data:CORL2017ImitationLearningData.tar.gz
+2
